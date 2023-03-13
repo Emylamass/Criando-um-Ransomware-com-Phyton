@@ -33,7 +33,7 @@ the file.write(content_encrypt)
 
  print("All your files has been encrypted!!")
  
- <img  alt="Emy-pic"  src="https://cdn.discordapp.com/attachments/859243782233784340/1084641253695705139/criptografado.PNG">
+
 
  
 
